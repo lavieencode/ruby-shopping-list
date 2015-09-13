@@ -1,6 +1,4 @@
 # ruby-shopping-list
-A simple Ruby shopping list program.
-
 A Treehouse project, using Ruby to create an interactive shopping list generator.
 
 In this project, we were tasked with creating a basic shopping list generator program. As the proejct is part of Ruby Basics, there are no objects or prototypes -- just functions.
