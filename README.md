@@ -1,5 +1,5 @@
 # ruby-shopping-list
-A simple Ruby shopping list program
+A simple Ruby shopping list program.
 
 A Treehouse project, using Ruby to create an interactive shopping list generator.
 
